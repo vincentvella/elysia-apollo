@@ -1,15 +1,15 @@
 {
-  "name": "@elysiajs/apollo",
+  "name": "@vellapps/elysiajs-apollo",
   "description": "Plugin for Elysia for using GraphQL Apollo",
-  "version": "0.5.2",
+  "version": "0.0.1",
   "author": {
-    "name": "saltyAom",
-    "url": "https://github.com/SaltyAom",
-    "email": "saltyaom@gmail.com"
+    "name": "vincentvella",
+    "url": "https://github.com/vincentvella",
+    "email": "vince@vellapps.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/elysiajs/elysia-apollo"
+    "url": "https://github.com/vincentvella/elysia-apollo"
   },
   "main": "./dist/index.js",
   "exports": {
@@ -20,8 +20,8 @@
     "default": "./dist/index.js"
   },
   "types": "./src/index.ts",
-  "bugs": "https://github.com/elysiajs/elysia-apollo/issues",
-  "homepage": "https://github.com/elysiajs/elysia-apollo",
+  "bugs": "https://github.com/vincentvella/elysia-apollo/issues",
+  "homepage": "https://github.com/vincentvella/elysia-apollo",
   "keywords": [
     "elysia",
     "apollo",
